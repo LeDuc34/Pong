@@ -8,7 +8,7 @@ Affrontez une IA entraînée et soyez le premier à marquer **7 points** dans ce
 
 ##  Installation
 
-Téléchargez le projet directement utilisable depuis Unity [https://www.swisstransfer.com/d/5e233a0b-1982-4b9c-b2bb-e80dae75867f](#) 
+Téléchargez le projet directement utilisable depuis Unity [ici](https://www.swisstransfer.com/d/5e233a0b-1982-4b9c-b2bb-e80dae75867f) 
 
 ---
 
