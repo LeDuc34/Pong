@@ -33,10 +33,9 @@ L'entraînement repose sur des **affrontements entre deux agents IA** qui s'amé
 
 **Objectifs d'un épisode** :
 - Rattraper la balle
-- **Marquer des points** (récompense élevée)
-- **Éviter d'encaisser des points** (récompense prioritaire)
+- **Marquer des points** 
+- **Éviter d'encaisser des points** 
 
-Le système de récompenses privilégie la défense et la précision offensive pour développer un jeu équilibré.
 
 ### La Scène
 
@@ -87,7 +86,7 @@ Le principal défi a été de concevoir un épisode d'entraînement efficace :
 
 ---
 
-## 🔧 Améliorations futures
+## Améliorations futures
 
 - Entraînement d'un modèle ML-Agents plus performant avec davantage de ressources
 - Ajout de niveaux de difficulté
